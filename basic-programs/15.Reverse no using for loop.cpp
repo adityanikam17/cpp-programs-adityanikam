@@ -1,0 +1,17 @@
+
+// 15. Reverse numbers (10-1) using for loop.
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+    int i ;
+
+    for (i=10;i>=1;i--)
+    {
+        cout<< " \n " << i ;
+    }
+    return 0;
+}
